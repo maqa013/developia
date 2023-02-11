@@ -1,0 +1,116 @@
+#container {
+  width: 650px;
+  height: 500px;
+  background-image: url("https://res.klook.com/image/upload/Mobile/City/szhx3ytpgfnhpbmsngk0.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 100px;
+  margin-left: 25px;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  min-width: 50%;
+  margin: 0 auto;
+}
+#up {
+  position: fixed;
+  top: 110px;
+}
+
+#up a {
+  padding: 20px;
+  color: white;
+  text-decoration: none;
+  background-color: black;
+}
+li{
+  display: inline;
+  margin-left: 80px;
+
+}
+
+#fon {
+  max-width: 100%;
+  margin: 0 auto;
+  height: 40px;
+  background-color: black;
+  margin-top: -630px;
+  width: 100%;
+  position: sticky;
+  top: 0px;
+}
+
+a {
+  padding: 20px 40px;
+  padding-left: 200px;
+  color: rgb(251, 242, 242);
+  font-size: 20px;
+  word-spacing: 3px;
+  text-decoration: none;
+  
+}
+li:hover{
+  background-color: rgb(187, 193, 193);
+
+
+}
+
+a:hover {
+  cursor: pointer;
+
+
+
+}
+#Italy {
+  width: 650px;
+  height: 500px;
+  background-image: url("https://www.aviatravel.az/media/2022/04/21/848x477/taliya-cover-1.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 500px;
+  margin-left: 550px;
+}
+#UK {
+  width: 650px;
+  height: 500px;
+  background-image: url("https://s30876.pcdn.co/wp-content/uploads/london-e1634207674493-1170x630.jpg.optimal.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: -30px;
+  margin-left: 800px;
+}
+h3 {
+  margin-top: -30px;
+  margin-left: 650px;
+  color: white;
+  font-size: 15px;
+}
+
+h3:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+h4 {
+  margin-top: -33.5px;
+  margin-left: 750px;
+  color: white;
+  font-size: 15px;
+}
+
+h4:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+h5 {
+  margin-top: -37.5px;
+  margin-left: 850px;
+  color: white;
+  font-size: 15px;
+}
+
+h5:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
